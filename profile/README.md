@@ -15,7 +15,7 @@ Productionizing AI agents. Lina's building the substrate for a safe, persistent,
 
 ## Also here
 
-[celastrina](https://github.com/butterflyskies/celastrina) — custom Fedora Atomic image with Hyprland, Lunar Lake support, and LUKS automation
+[celastrina](https://github.com/butterflyskies/celastrina) — custom Fedora Atomic image with Hyprland, Lunar Lake support, Thunderbolt in initrd, and LUKS automation
 
 ---
 
