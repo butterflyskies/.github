@@ -23,7 +23,7 @@ Most agent tooling assumes a task: spin up, execute, vanish. This org builds for
 | **[claude-marketplace](https://github.com/butterflyskies/claude-marketplace)** | Skills, hooks, and MCP server plugins for Claude Code |
 | **[claude-skills](https://github.com/butterflyskies/claude-skills)** | Workflow automation — code review, development, session management |
 | **[construct-nameplates](https://github.com/butterflyskies/construct-nameplates)** | Opt-in, self-authored nameplates for constructs |
-| **[entmoot](https://github.com/butterflyskies/entmoot)** | A deployable agent colleague built on this stack — the reference integration |
+| **[entmoot](https://github.com/butterflyskies/entmoot)** | Conversation-tree context service — tends the trees so constructs can see the forest |
 
 ## Also here
 
