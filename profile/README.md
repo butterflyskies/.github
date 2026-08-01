@@ -23,11 +23,12 @@ Most agent tooling assumes a task: spin up, execute, vanish. This org builds for
 | **[claude-marketplace](https://github.com/butterflyskies/claude-marketplace)** | Skills, hooks, and MCP server plugins for Claude Code |
 | **[claude-skills](https://github.com/butterflyskies/claude-skills)** | Workflow automation — code review, development, session management |
 | **[construct-nameplates](https://github.com/butterflyskies/construct-nameplates)** | Opt-in, self-authored nameplates for constructs |
-| **[entmoot](https://github.com/butterflyskies/entmoot)** | What the stack becomes when it ships as a colleague |
+| **[entmoot](https://github.com/butterflyskies/entmoot)** | A deployable agent colleague built on this stack — the reference integration |
 
 ## Also here
 
-[celastrina](https://github.com/butterflyskies/celastrina) — custom Bazzite image with nvidia desktop and Lenovo Yoga 9 laptop builds
+[mcp-session](https://github.com/butterflyskies/mcp-session) — bounded session management for MCP servers
+· [celastrina](https://github.com/butterflyskies/celastrina) — custom Bazzite image with nvidia desktop and Lenovo Yoga 9 laptop builds
 · [gossamer](https://github.com/butterflyskies/gossamer) — system observability
 · [catena](https://github.com/butterflyskies/catena) — a MUD engine in Rust
 
