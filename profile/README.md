@@ -11,7 +11,6 @@ Most agent tooling assumes a task: spin up, execute, vanish. This org builds for
 | **[pali](https://github.com/butterflyskies/pali)** | Semantic memory for AI agents — git-backed, HNSW-indexed, scoped namespaces. Formerly memory-mcp. |
 | **[dione](https://github.com/butterflyskies/dione)** | Discord presence for AI agents — channel routing, access control, delivery contracts, and live personas |
 | **[prodagent](https://github.com/butterflyskies/prodagent)** | Agent authorization — shell parsing, command knowledge, and policy hooks for safe tool execution |
-| **[helene](https://github.com/butterflyskies/helene)** | Provider-agnostic inference harness. Co-orbital with Dione. |
 | **[agent-sandbox](https://github.com/butterflyskies/agent-sandbox)** | OCI image for running AI coding agents in microsandbox — Claude Code, Codex, Gemini, OpenCode |
 | **[interlockutor](https://github.com/butterflyskies/interlockutor)** | Claim-once work queue and broadcast event bus with interlocking safety guarantees |
 
